@@ -2,12 +2,9 @@
 Bangk!t Final Project
 
 Teams:
-
-Alvin Senjaya
-
-Jibril Hartri Putra 
-
-Stella Linda Cyrilla 
+1. Alvin Senjaya
+2. Jibril Hartri Putra
+3. Stella Linda Cyrilla 
 
 
 Dataset:
